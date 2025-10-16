@@ -3,7 +3,6 @@ email: "carly.rodriguez@jax.org"
 description: "Neuroscience PhD Candidate — Using stem cell based models to study mechanisms of neuronal resilience"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://carlyrodriguez.github.io"
-theme: minima
 # Social links used in the templates
 social:
   - name: "LinkedIn"
