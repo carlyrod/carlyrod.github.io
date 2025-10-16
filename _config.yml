@@ -1,0 +1,14 @@
+title: "Carly Rodriguez"
+email: "carly.rodriguez@jax.org"
+description: "Neuroscience PhD Candidate — Using stem cell based models to study mechanisms of neuronal resilience"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://carlyrodriguez.github.io"
+theme: minima
+# Social links used in the templates
+social:
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/in/carly-rodriguez-999051194/"
+  - name: "ORCID"
+    url: "https://orcid.org/0000-0002-0062-7597"
+  - name: "JAX"
+    url: "https://www.jax.org/people/carly-rodriguez"
