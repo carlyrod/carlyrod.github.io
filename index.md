@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="hero">
-  <img src="/assets/img/profile.png" alt="Profile photo" class="profile">
+  <img src="/assets/img/profile.jpeg" alt="Profile photo" class="profile">
   <div class="hero-text">
     <h1>Carly Rodriguez</h1>
     <h2>PhD Candidate in Neuroscience</h2>
