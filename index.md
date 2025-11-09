@@ -8,7 +8,7 @@ title: Home
   <div class="hero-text">
     <h1>Carly Rodriguez</h1>
     <h2>PhD Candidate in Neuroscience</h2>
-    <p class="tagline">Pluripotent stem cell based modeling neuronal resilience</p>
+    <p class="tagline">Stem cell modeling & genetic modifiers of neuronal resiliency </p>
     <p class="links">
       <a href="https://www.linkedin.com/in/carly-rodriguez-999051194/" target="_blank">LinkedIn</a> ·
       <a href="https://orcid.org/0000-0002-0062-7597" target="_blank">ORCID</a> ·
