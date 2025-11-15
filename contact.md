@@ -12,4 +12,3 @@ title: Contact
 - [ORCID](https://orcid.org/0000-0002-0062-7597)  
 - [JAX Profile](https://www.jax.org/people/carly-rodriguez)
 
-You can also open an issue on the site's GitHub repo (once created) for updates or questions.
