@@ -4,14 +4,37 @@ title: About
 ---
 
 ## About Me
+I joined the Jackson Laboratory (JAX) in Fall 2023 as a Neuroscience PhD student through Tufts University. After completing my lab rotations, I joined the Pera Lab in May 2024. While I primarily work with **mouse embryonic stem cell (mESC) derived neurons**, I have also gained expertise in **human induced pluripotent stem cell (hiPSC) culture** and **differentiation into neurons and microglia**. I love using *cellular models to compliment whole organism and clinical studies* and I'm always eager to teach others and collaborate using cell culture techniques. Through my doctoral training, I'm working to expand my skills in *high-content screening and computational based genetic analysis*.
 
-My name is Carly Rodriguez and I am a Neuroscience PhD Student in the Pera Lab through Tufts University's collaborative program at The Jackson Laboratory (JAX) in Bar Harbor, Maine. My thesis work uses pluripotent stem cell–based models to investigate cellular and molecular mechanisms that promote neuronal resilience, particularly in the context of stress and age. 
-
-Before coming to JAX, I graduated from Ursinus College in Collegeville, PA with my Bachelor's of Science in Neuroscience. As an undergraduate, I worked as a nursing aide in a memory care unit. This experience is what helped build my passion for biomedical research in the context of aging and neurodegeneration. Simultaneously, my undergraduate coursework and time as a student researcher also fostered my interest in cellular and molecular neurobiology. 
-
-When I'm not in the lab you can usually find me hiking or running in the beautiful Acadia National Park. I also love all things music, dance, and dogs.
+Before coming to JAX, I graduated from Ursinus College in Spring 2023 with my Bachelor's of Science in Neuroscience. As an undergraduate student, I worked as a nursing aide in a memory care unit. This experience is what helped build my passion for **biomedical research to help develop better treatment for dementia and other age-related neurological disease.** I was also apart of the Bonner Scholarship Foundation Program at Ursinus. Through this, I devloped an ethusiasm for **civic engagement and advocacy** and would like to continue to engage in this throughout my scientific career.
 
 
 ### Education & Training
 - PhD: Tufts University / The Jackson Laboratory
 - B.S.: Ursinus College
+
+## Outside the Lab
+Living and working in Maine gives me easy access to beautiful hiking and running trails. I'm always down for an evening hike or a 3-person marathon relay (best team name: The NeuroNuggies).
+
+<p align="center">
+  <img src="/assets/photos/sq-precipice1.jpg" width="180">
+  <img src="/assets/photos/sq-katahdin2.jpg" width="180">
+  <img src="/assets/photos/sq-neuronuggies.jpg" width="180">
+</p>
+
+
+During the dark, cold, and gloomy seasons, I love to read, watch movies, and crochet. Anything true crime, thriller, or mystery and you have me hooked.
+
+## Pets
+Meet Momo! He is a 6 month old axolotl. He loves to get himself stuck in weird places in his home and listens to Pitbull or Kesha.
+
+<p align="center">
+  <img src="/assets/photos/sq-momo1.jpg" width="250" alt="Momo portrait">
+</p>
+
+
+My first axolotl, Calcifer, unfortunately has passed after living several years as a retired lab axolotl. Calcifer loved to eat bubbles and listen to Chappel Roan.
+
+<p align="center">
+  <img src="/assets/photos/sq-calcifer1.jpg" width="250" alt="Calcfier portrait">
+</p>
