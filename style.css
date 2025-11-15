@@ -14,13 +14,17 @@ html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:
 
 a {
   color: #7db9ff;       /* light blue */
-  text-decoration: none;
-}
+  text-decoration: none;}
 
 a:hover {
   color: #bcdcff;       /* even lighter on hover */
-  text-decoration: underline;
-}
+  text-decoration: underline;}
+
+.icon {
+  width: 24px;        /* shrink icon */
+  height: 24px;       /* enforce square shape */
+  padding: 6px;       /* space around icon */
+  border-radius: 6px; /* rounded corners */ }
 
 .nav{display:flex;justify-content:space-between;align-items:center;padding:14px 32px;background:linear-gradient(180deg, rgba(255,255,255,0.02), transparent);backdrop-filter: blur(2px)}
 .nav a{color:var(--muted);text-decoration:none;margin-left:18px;font-weight:600}
