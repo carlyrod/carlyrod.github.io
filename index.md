@@ -20,7 +20,11 @@ title: Home
 
 ---
 
-Hello! My name is Carly Rodriguez (she/her) and I am a third year Neuroscience PhD student through Tufts University's collaborative program at The Jackson Laboratory (JAX) in Bar Harbor, Maine. I am conducting my thesis work under the guidance of Dr. Martin Pera, an expert in stem cell biology and genetic factors of neural regeneration and repair. My project combines pluripotent stem cell based models and mouse genetics to better understand molecular mechanisms of neuronal resilience-- particularly in the context of stress and age. 
+Hello! My name is Carly Rodriguez (she/her) and I am a third year **Neuroscience PhD student** through [Tufts University's collaborative program at The Jackson Laboratory] (https://gsbs.tufts.edu/academics/basic-science-phd-programs/neuro-jax) (JAX) in Bar Harbor, Maine. 
 
-The goal of this website is to share more about me and my research to help better connect with others. If you're interested in learning more, providing input, or even collaborating, please feel free to reach out to me via LinkedIn or Email (links above).
+I am conducting my thesis work under the guidance of [Dr. Martin Pera] (https://www.jax.org/research-and-faculty/faculty/martin-pera), an expert in stem cell biology and genetic factors of neural regeneration and repair. 
+
+**My thesis project** combines pluripotent stem cell based models and mouse genetics to better understand molecular mechanisms of neuronal resilience-- particularly in the context of stress and age. 
+
+I'm always looking to connect with others. If you're interested in learning more about my work, collaborating, or anything else,_ please feel free to reach out to me via LinkedIn or Email_ (links above).
 
