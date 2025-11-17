@@ -14,7 +14,7 @@ title: About
 
 ## Skills and Techniques
 - Cell culture
-- - human induced pluripotent stem cells (hiPSC)
+  - human induced pluripotent stem cells (hiPSC)
   - mouse embryonic stem cells (mESCs)
   - immortalized cell lines (BV2, HEK-293T)
 - Directed differentiation of PSCs into neurons and microglia
