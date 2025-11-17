@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 <div class="about-hero" style="display:flex; gap:24px; align-items:center; padding:24px 0;">
-  <img src="/assets/img/profile-3.png" alt="Carly Rodriguez" style="width:150px; height:150px; border-radius:50%; object-fit:cover; border:3px solid rgba(255,255,255,0.04);">
+  <img src="/assets/img/profile-3.PNG" alt="Carly Rodriguez" style="width:150px; height:150px; border-radius:50%; object-fit:cover; border:3px solid rgba(255,255,255,0.04);">
   <div>
     <h2>About Me</h2>
     <p>My research interests encompass the use of <i>in vitro</i> models to improve protection or treatment to dementia and other age-related neurological diseases.</p>
