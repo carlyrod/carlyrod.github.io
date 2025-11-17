@@ -3,19 +3,23 @@ layout: default
 title: About
 ---
 <div class="about-hero" style="display:flex; gap:24px; align-items:center; padding:24px 0;">
-  <img src="/assets/img/profile.png" alt="Carly Rodriguez" style="width:150px; height:150px; border-radius:50%; object-fit:cover; border:3px solid rgba(255,255,255,0.04);">
+  <img src="/assets/img/profile-2.PNG" alt="Carly Rodriguez" style="width:150px; height:150px; border-radius:50%; object-fit:cover; border:3px solid rgba(255,255,255,0.04);">
   <div>
     <h2>About Me</h2>
     <p>My research interests encompass the use of _in vitro_ models to improve protection or treatment to dementia and other age-related neurological diseases.</p>
     <p>My current work aims to establish a platform for decoding genetic and molecular modifiers of neuronal resiliency to stress and aging through the use of mouse emrbyonic stem cell (mESC) derived neurons. </p>
+       <p>I am very passionate about collaboration, mentorship, and advocacy. I believe cellular models are powerful compliments to whole organism and clinical studies. I'm always eager to work with others and have a lot of experience in teaching cell culture techniques. I'm also always looking for opportunities to engage in greater scientific and non-scientific communities worldwide to increase accesibility to biomedical innovation. </p>
   </div>
 </div>
 
-## About Me
-I joined the Jackson Laboratory (JAX) in Fall 2023 as a Neuroscience PhD student through Tufts University. After completing my lab rotations, I joined the Pera Lab in May 2024. While I primarily work with mouse embryonic stem cell (mESC) derived neurons, I have also gained expertise in human induced pluripotent stem cell (hiPSC) culture and differentiation into neurons and microglia. I love using **cellular models to compliment whole organism and clinical studies** and I'm always eager to teach others and collaborate using cell culture techniques. Through my doctoral training, I'm working to expand my skills in high-content screening and computational based genetic analysis.
-
-Before coming to JAX, I graduated from Ursinus College in Spring 2023 with my Bachelor's of Science in Neuroscience. As an undergraduate student, I worked as a nursing aide in a memory care unit. This experience is what helped build my passion for **biomedical research to help develop better treatment for dementia and other age-related neurological disease.** I was also apart of the Bonner Scholarship Foundation Program at Ursinus. Through this, I devloped an ethusiasm for **civic engagement and advocacy** and would like to continue to engage in this throughout my scientific career.
-
+## Skills and Techniques
+- Culture of human induced pluripotent stem cells (hiPSC), mouse embryonic stem cells (mESCs), and various immortalized cell lines.
+- Directed differentiation of PSCs into neurons and microglia
+- - Immunofluorescence of both in vitro and in vivo samples
+- Automated image acquisition and analysis on Revvity's Opera Phenix HCS Microscope
+- R for data analysis and visualization
+- qPCR, RT-qPCR, and dPCR
+- Flow Cytometry
 
 ## Education & Training
 - PhD: Tufts University / The Jackson Laboratory (August 2023 - Present)
