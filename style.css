@@ -120,20 +120,6 @@ a.btn{
   color:var(--muted);
 }
 
-/* ------------------------------------------ */
-/*                Link Overrides              */
-/* ------------------------------------------ */
-
-a {
-  color: #7db9ff !important;       /* light blue */
-  text-decoration: none !important;
-}
-
-a:hover {
-  color: #bcdcff !important;       /* lighter on hover */
-  text-decoration: underline;
-}
-
 .about-hero img {
   max-width:150px;
 }
@@ -156,4 +142,17 @@ a:hover {
   .about-hero img {
     margin: 0 auto 16px auto;
   }
+}
+
+/* GLOBAL LINK COLORS — overrides everything */
+a,
+a:visited {
+  color: #7db9ff !important;       /* light blue */
+  text-decoration: none !important;
+}
+
+a:hover,
+a:focus {
+  color: #bcdcff !important;       /* lighter on hover */
+  text-decoration: underline !important;
 }
