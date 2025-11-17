@@ -144,15 +144,27 @@ a.btn{
   }
 }
 
-/* GLOBAL LINK COLORS — overrides everything */
+
 a,
 a:visited {
-  color: #7db9ff !important;       /* light blue */
+  color: #84CEED !important;       /* light blue */
   text-decoration: none !important;
 }
 
 a:hover,
 a:focus {
-  color: #bcdcff !important;       /* lighter on hover */
+  color: #84CEED !important;       /* lighter on hover */
+  text-decoration: underline !important;
+}
+
+html body a,
+html body a:visited {
+  color: #84CEED !important;
+  text-decoration: none !important;
+}
+
+html body a:hover,
+html body a:focus {
+  color: #84CEED !important;
   text-decoration: underline !important;
 }
