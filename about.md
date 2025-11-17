@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 <div class="about-hero" style="display:flex; gap:24px; align-items:center; padding:24px 0;">
-  <img src="/assets/img/profile-2.PNG" alt="Carly Rodriguez" style="width:150px; height:150px; border-radius:50%; object-fit:cover; border:3px solid rgba(255,255,255,0.04);">
+  <img src="/assets/img/profile.PNG" alt="Carly Rodriguez" style="width:150px; height:150px; border-radius:50%; object-fit:cover; border:3px solid rgba(255,255,255,0.04);">
   <div>
     <h2>About Me</h2>
     <p>My research interests encompass the use of _in vitro_ models to improve protection or treatment to dementia and other age-related neurological diseases.</p>
@@ -13,9 +13,12 @@ title: About
 </div>
 
 ## Skills and Techniques
-- Culture of human induced pluripotent stem cells (hiPSC), mouse embryonic stem cells (mESCs), and various immortalized cell lines.
+- Cell culture
+- - human induced pluripotent stem cells (hiPSC)
+  - mouse embryonic stem cells (mESCs)
+  - immortalized cell lines (BV2, HEK-293T)
 - Directed differentiation of PSCs into neurons and microglia
-- - Immunofluorescence of both in vitro and in vivo samples
+- Immunofluorescence of both in vitro and in vivo samples
 - Automated image acquisition and analysis on Revvity's Opera Phenix HCS Microscope
 - R for data analysis and visualization
 - qPCR, RT-qPCR, and dPCR
@@ -45,7 +48,7 @@ Meet Momo! He is a 6 month old axolotl. He loves to get himself stuck in weird p
 </p>
 
 
-My first axolotl, Calcifer, unfortunately has passed after living several years as a retired lab axolotl. Calcifer loved to eat bubbles and listen to Chappel Roan.
+My first axolotl, Calcifer, unfortunately has passed after living several years as a retired lab axolotl. Calcifer loved to eat bubbles and listen to Chappell Roan.
 
 <p align="center">
   <img src="/assets/photos/sq-calcifer1.jpg" width="250" alt="Calcfier portrait">
