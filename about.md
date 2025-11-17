@@ -3,10 +3,10 @@ layout: default
 title: About
 ---
 <div class="about-hero" style="display:flex; gap:24px; align-items:center; padding:24px 0;">
-  <img src="/assets/img/profile.jpeg" alt="Carly Rodriguez" style="width:150px; height:150px; border-radius:50%; object-fit:cover; border:3px solid rgba(255,255,255,0.04);">
+  <img src="/assets/img/profile-3.png" alt="Carly Rodriguez" style="width:150px; height:150px; border-radius:50%; object-fit:cover; border:3px solid rgba(255,255,255,0.04);">
   <div>
     <h2>About Me</h2>
-    <p>My research interests encompass the use of _in vitro_ models to improve protection or treatment to dementia and other age-related neurological diseases.</p>
+    <p>My research interests encompass the use of *in vitro* models to improve protection or treatment to dementia and other age-related neurological diseases.</p>
     <p>My current work aims to establish a platform for decoding genetic and molecular modifiers of neuronal resiliency to stress and aging through the use of mouse emrbyonic stem cell (mESC) derived neurons. </p>
        <p>I am very passionate about collaboration, mentorship, and advocacy. I believe cellular models are powerful compliments to whole organism and clinical studies. I'm always eager to work with others and have a lot of experience in teaching cell culture techniques. I'm also always looking for opportunities to engage in greater scientific and non-scientific communities worldwide to increase accesibility to biomedical innovation. </p>
   </div>
@@ -41,15 +41,17 @@ Living and working in Maine gives me easy access to beautiful hiking and running
 During the dark, cold, and gloomy seasons, I love to read, watch movies, and crochet. Anything true crime, thriller, or mystery and you have me hooked.
 
 ## Pets
-Meet Momo! He is a 6 month old axolotl. He loves to get himself stuck in weird places in his home and listens to Pitbull or Kesha.
-
-<p align="center">
-  <img src="/assets/photos/sq-momo1.jpg" width="250" alt="Momo portrait">
+<p>
+  <img src="/assets/photos/sq-momo1.jpg"
+    alt = "Momo portrait"
+    style="width:250px; float:left; margin:0 15px 15px 0;">
+  Meet Momo! He is a 6 month old axolotl. He loves to get himself stuck in weird places in his home and listens to Pitbull or Kesha.
 </p>
 
-
+<p>
+  <img src="/assets/photos/sq-calcifer1.jpg"
+    alt = "Calcifer portrait"
+    style="width:250px; float:left; margin:0 15px 15px 0;">
 My first axolotl, Calcifer, unfortunately has passed after living several years as a retired lab axolotl. Calcifer loved to eat bubbles and listen to Chappell Roan.
-
-<p align="center">
-  <img src="/assets/photos/sq-calcifer1.jpg" width="250" alt="Calcfier portrait">
 </p>
+
