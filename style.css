@@ -133,3 +133,27 @@ a:hover {
   color: #bcdcff !important;       /* lighter on hover */
   text-decoration: underline;
 }
+
+.about-hero img {
+  max-width:150px;
+}
+
+.about-hero div {
+  flex:1;
+}
+
+.about-hero p {
+  line-height:1.5;
+  margin:16px 0;
+}
+
+@media (max-width: 600px) {
+  .about-hero {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .about-hero img {
+    margin: 0 auto 16px auto;
+  }
+}
